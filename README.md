@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funcrow1349&show_icons=true&locale=en&layout=full" alt="funcrow1349" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" /></p>
 
