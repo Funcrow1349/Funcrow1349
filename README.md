@@ -1,20 +1,12 @@
 <h1 align="center">👋 Hello, I'm Ivaylo</h1>
 <h3 align="center">Passionate about programming and constantly enhancing my skills</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=funcrow1349&" alt="funcrow1349" />
-</p>
-
-<h3 align="left">🌱 Currently Learning:</h3>
+<h3 align="left">🌱 Skillset:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/> HTML
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> CSS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> 
 </p>
 
 <h3 align="left">📫 How to Reach Me:</h3>
