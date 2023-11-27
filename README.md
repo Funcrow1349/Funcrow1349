@@ -2,8 +2,8 @@
 <h3 align="center">Passionate about programming and constantly enhancing my skills</h3>
 
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">🚀 Languages and Tools:</h3>
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -11,20 +11,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 </p>
 
-<p align="stretch">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" />
 </p>
 
-<p align="stretch">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" />
 </p>
 
-<p align="stretch">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funcrow1349&" alt="funcrow1349" />
 </p>
 
-<h3 align="left">📫 How to Reach Me:</h3>
-<p align="left">
+<h3 align="center">📫 How to Reach Me:</h3>
+<p align="center">
   <a href="mailto:funcrow1349@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" />
   </a>
