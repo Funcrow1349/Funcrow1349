@@ -18,9 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=funcrow1349&show_icons=true&locale=en" alt="funcrow1349" />
-</p>
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funcrow1349&" alt="funcrow1349" />
