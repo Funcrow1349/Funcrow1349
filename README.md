@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ivaylo</h1>
 <h3 align="center">Programming enthusiast in the process of developing my skills</h3>
 
-- 🌱 I’m currently learning **Python**, **JavaScript**, **HTML**, and **CSS**
+- 🌱 I’m currently studying **Python**, **JavaScript**, **HTML**, and **CSS**
 
 - 📫 How to reach me **funcrow1349@gmail.com**
 
